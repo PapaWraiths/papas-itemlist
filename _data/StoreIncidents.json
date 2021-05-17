@@ -71,6 +71,11 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "shortcircuit",
+		"price": 500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "toxicfallout",
 		"price": 650000,
 		"karmatype": "Doom"
@@ -156,11 +161,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "wildman",
-		"price": 300,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "rarethrumbos",
 		"price": 500,
 		"karmatype": "Good"
@@ -181,14 +181,14 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "skillincrease",
-		"price": 200,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "party",
 		"price": 400,
 		"karmatype": "Good"
+	},
+	{
+		"abr": "alphabeavers",
+		"price": 600,
+		"karmatype": "Bad"
 	},
 	{
 		"abr": "shippartpoison",
@@ -216,12 +216,22 @@
 		"karmatype": "Bad"
 	},
 	{
+		"abr": "sapperraid",
+		"price": 1500,
+		"karmatype": "Bad"
+	},
+	{
 		"abr": "siegeraid",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
 	{
 		"abr": "mechanoidraid",
+		"price": 2500,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "infestation",
 		"price": 2500,
 		"karmatype": "Bad"
 	},
@@ -234,6 +244,21 @@
 		"abr": "predators",
 		"price": 2500,
 		"karmatype": "Bad"
+	},
+	{
+		"abr": "randomdisease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "disease",
+		"price": 1000,
+		"karmatype": "Bad"
+	},
+	{
+		"abr": "reviveanypawn",
+		"price": 1200,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "pawn",
@@ -276,8 +301,38 @@
 		"karmatype": "Neutral"
 	},
 	{
+		"abr": "hodlbotvote",
+		"price": 600,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "reviveall",
+		"price": 22664,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "reviveme",
+		"price": 2833,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healall",
+		"price": 17336,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healanypawn",
+		"price": 2000,
+		"karmatype": "Good"
+	},
+	{
+		"abr": "healme",
+		"price": 2167,
+		"karmatype": "Good"
+	},
+	{
 		"abr": "surgery",
-		"price": 1,
+		"price": 500,
 		"karmatype": "Neutral"
 	},
 	{
@@ -289,6 +344,16 @@
 		"abr": "replacetrait",
 		"price": 1,
 		"karmatype": "Neutral"
+	},
+	{
+		"abr": "rescueme",
+		"price": 800,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "fullheal",
+		"price": 2167,
+		"karmatype": "Good"
 	},
 	{
 		"abr": "passion",
@@ -331,5 +396,5 @@
 		"karmatype": "Neutral"
 	}
 	],
-	"total": 66
+	"total": 79
 }

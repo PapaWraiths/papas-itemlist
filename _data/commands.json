@@ -193,36 +193,6 @@
     "data": {
       "isShortcut": true
     },
-    "description": "A personal resurrector mech serum.",
-    "name": "Revive me",
-    "usage": "!reviveme",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A personal healer mech serum/",
-    "name": "Heal me",
-    "usage": "!healme",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
-    "description": "A colony wide healer mech serum.",
-    "name": "Healall",
-    "usage": "!healall",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
     "description": "Shuffles your passions. If a skill is specified, you'll be guaranteed a minor passion in it.",
     "name": "Passion shuffle",
     "usage": "!passionshuffle [skill]",
@@ -273,16 +243,6 @@
     "data": {
       "isShortcut": true
     },
-    "description": "A healer mech serum for a random colonist.",
-    "name": "Heal any pawn",
-    "usage": "!healanypawn",
-    "userLevel": "Anyone",
-    "shortcut": true
-  },
-  {
-    "data": {
-      "isShortcut": true
-    },
     "description": "Replaces a trait with a different trait.",
     "name": "Replace trait",
     "usage": "!replacetrait <old> <new>",
@@ -316,16 +276,6 @@
     "description": "Upgrades a skill's passion... sometimes.",
     "name": "Add passion",
     "usage": "!passion <skill>",
-    "userLevel": "Anyone",
-    "shortcut": false
-  },
-  {
-    "data": {
-      "isShortcut": false
-    },
-    "description": "Heals all healable injuries your pawn currently has.",
-    "name": "Full heal",
-    "usage": "!fullheal",
     "userLevel": "Anyone",
     "shortcut": false
   },
