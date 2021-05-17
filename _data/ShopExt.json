@@ -12407,7 +12407,9 @@
       "name": "fisherman",
       "data": {
         "canBypassLimit": false,
-        "customName": false
+        "conflicts": [],
+        "customName": false,
+        "stats": []
       },
       "description": "Timmy enjoys the solitude and tranquility inherent to long fishing sessions. he will prefer fishing above other activities.\n(Vanilla Fishing Expanded)",
       "stats": [],
@@ -12417,10 +12419,82 @@
   ],
   "races": [
     {
-      "price": 2917,
-      "defName": "Human",
+      "price": 1500,
+      "defName": "Alien_AncestralAOni",
+      "enabled": true,
+      "name": "Ancestral Oni",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1000,
+      "defName": "AS_WHE_Race",
+      "enabled": true,
+      "name": "half elf",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 291,
+      "defName": "OG_Human_Mechanicus",
       "enabled": true,
       "name": "human",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 291,
+      "defName": "Human",
+      "enabled": true,
+      "name": "human2",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 2500,
+      "defName": "Alien_Kerbal",
+      "enabled": false,
+      "name": "Kerbal",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 4167,
+      "defName": "HAR_Nearmaere",
+      "enabled": true,
+      "name": "nightmear",
+      "data": {
+        "customName": true
+      }
+    },
+    {
+      "price": 100,
+      "defName": "Alien_Nyaron",
+      "enabled": true,
+      "name": "Nyaron",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 1500,
+      "defName": "OG_Abhuman_Ogryn",
+      "enabled": true,
+      "name": "ogryn",
+      "data": {
+        "customName": false
+      }
+    },
+    {
+      "price": 6000,
+      "defName": "AOni",
+      "enabled": false,
+      "name": "Oni",
       "data": {
         "customName": false
       }
@@ -12435,34 +12509,7 @@
       }
     },
     {
-      "price": 9333,
-      "defName": "Alien_AncestralAOni",
-      "enabled": true,
-      "name": "Ancestral Oni",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 6000,
-      "defName": "AOni",
-      "enabled": true,
-      "name": "Oni",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
-      "defName": "Alien_Nyaron",
-      "enabled": true,
-      "name": "Nyaron",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 3333,
+      "price": 100,
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
@@ -12473,53 +12520,17 @@
     {
       "price": 3333,
       "defName": "Ratkin_Su",
-      "enabled": true,
+      "enabled": false,
       "name": "Ratkin subject",
       "data": {
         "customName": false
       }
     },
     {
-      "price": 4167,
-      "defName": "HAR_Nearmaere",
-      "enabled": true,
-      "name": "ニアメーア",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2500,
-      "defName": "Alien_Kerbal",
-      "enabled": true,
-      "name": "Kerbal",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
+      "price": 917,
       "defName": "OG_Abhuman_Ratling",
       "enabled": true,
       "name": "ratling",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 4167,
-      "defName": "OG_Abhuman_Ogryn",
-      "enabled": true,
-      "name": "ogryn",
-      "data": {
-        "customName": false
-      }
-    },
-    {
-      "price": 2917,
-      "defName": "OG_Human_Mechanicus",
-      "enabled": true,
-      "name": "human",
       "data": {
         "customName": false
       }

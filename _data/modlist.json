@@ -796,6 +796,10 @@
     "name": "[L] House Maid Nukos"
   },
   {
+    "author": "Haduki, Heli",
+    "name": "Ancient Species"
+  },
+  {
     "author": "OTTU",
     "name": "Poleepkwa Race Update"
   },
@@ -820,6 +824,24 @@
     "name": "Kerbal Race"
   },
   {
+    "author": "Oskar Potocki, Kikohi, Sarg Bjornson",
+    "name": "Vanilla Factions Expanded - Insectoids",
+    "steamId": "2149755445",
+    "version": "1.2.0.0"
+  },
+  {
+    "author": "Oskar Potocki, LimeTreeSnake, Kikohi",
+    "name": "Vanilla Factions Expanded - Settlers",
+    "steamId": "2052918119",
+    "version": "1.1.0.0"
+  },
+  {
+    "author": "Oskar Potocki, Kentington, Sarg Bjornson, erdelf, Kikohi, Chowder, Taranchuk",
+    "name": "Vanilla Factions Expanded - Mechanoids",
+    "steamId": "2329011599",
+    "version": "1.0.0.0"
+  },
+  {
     "author": "Ogliss",
     "name": "Adeptus Mechanicus: Armoury",
     "steamId": "1541438614",
@@ -830,12 +852,6 @@
     "name": "Adeptus Mechanicus: Magos Xenobiologis",
     "steamId": "1541499916",
     "version": "1.6.1.1"
-  },
-  {
-    "author": "Krkr",
-    "name": "RocketMan - Performance Mod",
-    "steamId": "2479389928",
-    "version": "0.6.3.64"
   },
   {
     "author": "Velc",
@@ -1050,6 +1066,12 @@
     "name": "Vanilla Weapons Expanded"
   },
   {
+    "author": "Oskar Potocki, XeoNovaDan",
+    "name": "Vanilla Factions Expanded - Medieval",
+    "steamId": "2023513450",
+    "version": "1.0.5.0"
+  },
+  {
     "author": "Oskar Potocki, AveryTheKitty, Taranchuk",
     "name": "Vanilla Weapons Expanded - Coilguns"
   },
@@ -1088,5 +1110,17 @@
   {
     "author": "Oskar Potocki, Helixien, Erin, Cody Spring",
     "name": "Vanilla Textures Expanded - Mod Expansion"
+  },
+  {
+    "author": "Andreas Pardeike",
+    "name": "Puppeteer",
+    "steamId": "2057192142",
+    "version": "1.5.5.0"
+  },
+  {
+    "author": "Krkr",
+    "name": "RocketMan - Performance Mod",
+    "steamId": "2479389928",
+    "version": "0.6.3.64"
   }
 ]
