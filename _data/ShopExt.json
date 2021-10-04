@@ -4153,7 +4153,7 @@
       "defName": "Ratkin",
       "enabled": true,
       "name": "Ratkin",
-      "price": 3333
+      "price": 1500
     },
     {
       "data": {
@@ -4191,7 +4191,7 @@
       "defName": "Ratkin_Su",
       "enabled": true,
       "name": "Ratkin subject",
-      "price": 3333
+      "price": 1500
     },
     {
       "data": {
@@ -4239,7 +4239,7 @@
       "defName": "Alien_AncestralAOni",
       "enabled": true,
       "name": "Ancestral Oni",
-      "price": 9333
+      "price": 1500
     },
     {
       "data": {
@@ -4273,7 +4273,7 @@
       "defName": "AOni",
       "enabled": true,
       "name": "Oni",
-      "price": 6000
+      "price": 1500
     }
   ]
 }
